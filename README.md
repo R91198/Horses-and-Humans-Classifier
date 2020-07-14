@@ -1,1 +1,1 @@
-# Horses-and-Humans-Classifier
+# Horses🦄 & Humans👱‍♀️👱 Image Classification 
